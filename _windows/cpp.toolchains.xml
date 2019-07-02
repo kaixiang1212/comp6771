@@ -1,7 +1,0 @@
-<application>
-  <component name="CPPToolchains" version="4">
-    <toolchains detectedVersion="5">
-      <toolchain name="WSL" toolSetKind="WSL" toolSetPath="C:\Users\KaiXiang\AppData\Local\Microsoft\WindowsApps\ubuntu1804.exe" customCMakePath="\usr\bin\cmake" hostId="34698c50-80a4-4908-9571-d96f3ff1143d" debuggerKind="CUSTOM_GDB" customGDBPath="\usr\bin\gdb" />
-    </toolchains>
-  </component>
-</application>

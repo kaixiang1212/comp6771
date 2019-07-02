@@ -1,6 +1,0 @@
-<application>
-  <component name="BlazeUserSettings">
-    <option name="resyncAutomatically" value="true" />
-    <option name="resyncOnProtoChanges" value="true" />
-  </component>
-</application>
